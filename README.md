@@ -1,2 +1,2 @@
 # RegEx
-Regular Expression course by Cod3r.
+Regular Expression course by [Cod3r](https://www.cod3r.com.br/).
